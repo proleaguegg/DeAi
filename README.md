@@ -6,3 +6,6 @@ This repository contains following smart contracts for ProleageGG Network. A pla
 # Philosophy
 
 ## Contracts
+
+
+🛠️ Contributing
