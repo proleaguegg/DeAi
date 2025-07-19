@@ -8,7 +8,7 @@ This repository contains following smart contracts for ProleageGG Network. Socia
 ## Contract Deployments
 **Ethereum Sepolia Testnet**
 | Contract | Deployment  |
-
+| :----- | :- |
 
 
 
