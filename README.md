@@ -5,12 +5,12 @@ This repository contains following smart contracts for ProleageGG Network. Socia
 
 🔵 🤖 AI deployment: Secure, scalable, and ROI-driven 
 
-## Contracts
+## Contract Deployments
+**Ethereum Sepolia Testnet**
+| Contract | Deployment  |
 
 
 
-
-🛠️ Contributing
 
 
 ## Acknowledgements
